@@ -1,0 +1,19 @@
+# Rails
+*.log
+*.tmp
+*.pid
+*.sqlite3
+db/*.sqlite3
+/public/system
+/vendor/bundle
+.byebug_history
+
+# Ruby
+*.gem
+*.rbc
+/.config
+/coverage
+/spec/tmp
+
+# VSCode
+.vscode/

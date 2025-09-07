@@ -1,0 +1,126 @@
+example_id                                                       | status  | run_time        |
+---------------------------------------------------------------- | ------- | --------------- |
+./spec/calculator/calculator_spec.rb[1:1:1]                      | passed  | 0.0012 seconds  |
+./spec/calculator/calculator_spec.rb[1:2:1]                      | passed  | 0.00014 seconds |
+./spec/calculator/calculator_spec.rb[1:2:2]                      | passed  | 0.00077 seconds |
+./spec/calculator/calculator_spec.rb[1:2:3]                      | passed  | 0.0001 seconds  |
+./spec/matchers/aggregate_failures_spec.rb[1:1:1]                | failed  | 0.00116 seconds |
+./spec/matchers/aggregate_failures_spec.rb[1:1:2]                | failed  | 0.01498 seconds |
+./spec/matchers/all_spec.rb[1:1:1]                               | passed  | 0.00273 seconds |
+./spec/matchers/all_spec.rb[1:2:1]                               | passed  | 0.00079 seconds |
+./spec/matchers/arrays_spec.rb[1:1:1]                            | passed  | 0.00006 seconds |
+./spec/matchers/arrays_spec.rb[1:2:1]                            | passed  | 0.00011 seconds |
+./spec/matchers/arrays_spec.rb[1:2:2]                            | passed  | 0.00233 seconds |
+./spec/matchers/arrays_spec.rb[1:3:1:1]                          | passed  | 0.0018 seconds  |
+./spec/matchers/arrays_spec.rb[1:3:2:1]                          | passed  | 0.00007 seconds |
+./spec/matchers/arrays_spec.rb[1:4:1]                            | passed  | 0.00026 seconds |
+./spec/matchers/arrays_spec.rb[1:5:1]                            | passed  | 0.00005 seconds |
+./spec/matchers/arrays_spec.rb[1:6:1]                            | passed  | 0.00185 seconds |
+./spec/matchers/be_between_spec.rb[1:1:1]                        | passed  | 0.00064 seconds |
+./spec/matchers/be_between_spec.rb[1:1:2]                        | passed  | 0.01619 seconds |
+./spec/matchers/be_between_spec.rb[1:2:1]                        | passed  | 0.00014 seconds |
+./spec/matchers/be_between_spec.rb[1:2:2]                        | passed  | 0.00087 seconds |
+./spec/matchers/be_between_spec.rb[1:2:3]                        | passed  | 0.00024 seconds |
+./spec/matchers/be_within_spec.rb[1:1]                           | passed  | 0.00007 seconds |
+./spec/matchers/be_within_spec.rb[1:2]                           | passed  | 0.00526 seconds |
+./spec/matchers/be_within_spec.rb[1:3]                           | passed  | 0.00011 seconds |
+./spec/matchers/change_spec.rb[1:1]                              | passed  | 0.00032 seconds |
+./spec/matchers/change_spec.rb[1:2]                              | passed  | 0.01788 seconds |
+./spec/matchers/change_spec.rb[1:3]                              | passed  | 0.00057 seconds |
+./spec/matchers/comparison_spec.rb[1:1:1]                        | passed  | 0.0001 seconds  |
+./spec/matchers/comparison_spec.rb[1:1:2]                        | passed  | 0.00017 seconds |
+./spec/matchers/comparison_spec.rb[1:2:1]                        | passed  | 0.00011 seconds |
+./spec/matchers/comparison_spec.rb[1:2:2]                        | passed  | 0.00099 seconds |
+./spec/matchers/comparison_spec.rb[1:3:1]                        | passed  | 0.00012 seconds |
+./spec/matchers/comparison_spec.rb[1:3:2]                        | passed  | 0.0001 seconds  |
+./spec/matchers/comparison_spec.rb[1:3:3]                        | passed  | 0.00022 seconds |
+./spec/matchers/comparison_spec.rb[1:4:1]                        | passed  | 0.00009 seconds |
+./spec/matchers/comparison_spec.rb[1:4:2]                        | passed  | 0.0001 seconds  |
+./spec/matchers/comparison_spec.rb[1:4:3]                        | passed  | 0.00018 seconds |
+./spec/matchers/comparison_spec.rb[1:5:1]                        | passed  | 0.00011 seconds |
+./spec/matchers/comparison_spec.rb[1:5:2]                        | passed  | 0.0006 seconds  |
+./spec/matchers/comparison_spec.rb[1:6:1]                        | passed  | 0.00053 seconds |
+./spec/matchers/comparison_spec.rb[1:6:2]                        | passed  | 0.01313 seconds |
+./spec/matchers/composition_spec.rb[1:1:1]                       | passed  | 0.00192 seconds |
+./spec/matchers/composition_spec.rb[1:1:2]                       | passed  | 0.00034 seconds |
+./spec/matchers/composition_spec.rb[1:1:3]                       | passed  | 0.00006 seconds |
+./spec/matchers/composition_spec.rb[1:1:4:1]                     | passed  | 0.00007 seconds |
+./spec/matchers/custom_spec.rb[1:1]                              | passed  | 0.00013 seconds |
+./spec/matchers/custom_spec.rb[1:2]                              | passed  | 0.00018 seconds |
+./spec/matchers/double_fake_obj_spec.rb[1:1]                     | passed  | 0.00458 seconds |
+./spec/matchers/double_fake_obj_spec.rb[1:2]                     | passed  | 0.00047 seconds |
+./spec/matchers/exceptions_spec.rb[1:1:1]                        | passed  | 0.00018 seconds |
+./spec/matchers/exceptions_spec.rb[1:2:1]                        | passed  | 0.00026 seconds |
+./spec/matchers/exceptions_spec.rb[1:3:1]                        | passed  | 0.0001 seconds  |
+./spec/matchers/exceptions_spec.rb[1:4:1]                        | passed  | 0.00006 seconds |
+./spec/matchers/exceptions_spec.rb[1:5:1]                        | passed  | 0.0007 seconds  |
+./spec/matchers/have_atributes_spec.rb[1:1]                      | unknown |                 |
+./spec/matchers/have_atributes_spec.rb[1:2]                      | unknown |                 |
+./spec/matchers/have_atributes_spec.rb[1:3]                      | unknown |                 |
+./spec/matchers/identity_spec.rb[1:1]                            | unknown |                 |
+./spec/matchers/identity_spec.rb[1:2]                            | unknown |                 |
+./spec/matchers/identity_spec.rb[1:3]                            | unknown |                 |
+./spec/matchers/identity_spec.rb[1:4]                            | unknown |                 |
+./spec/matchers/instance_kind_of_spec.rb[1:1]                    | passed  | 0.00032 seconds |
+./spec/matchers/instance_kind_of_spec.rb[1:2]                    | passed  | 0.00024 seconds |
+./spec/matchers/instance_kind_of_spec.rb[1:3]                    | passed  | 0.00078 seconds |
+./spec/matchers/let_spec.rb[1:1]                                 | passed  | 0.00031 seconds |
+./spec/matchers/let_spec.rb[1:2]                                 | passed  | 0.00005 seconds |
+./spec/matchers/mocks/as_null_object_spec.rb[1:1]                | passed  | 0.00481 seconds |
+./spec/matchers/mocks/mock_spec.rb[1:1:1]                        | passed  | 0.00243 seconds |
+./spec/matchers/mocks/mock_spec.rb[1:1:2]                        | passed  | 0.00049 seconds |
+./spec/matchers/mocks/mock_spec.rb[1:1:3]                        | passed  | 0.00158 seconds |
+./spec/matchers/mocks/mock_spec.rb[1:2:1]                        | passed  | 0.00033 seconds |
+./spec/matchers/mocks/mock_spec.rb[1:2:2]                        | passed  | 0.0005 seconds  |
+./spec/matchers/mocks/mock_spec.rb[1:2:3]                        | passed  | 0.00024 seconds |
+./spec/matchers/mocks/mock_spec.rb[1:2:4]                        | failed  | 0.00529 seconds |
+./spec/matchers/one_liner_syntax_spec.rb[1:1]                    | passed  | 0.00139 seconds |
+./spec/matchers/one_liner_syntax_spec.rb[1:2]                    | passed  | 0.00107 seconds |
+./spec/matchers/one_liner_syntax_spec.rb[1:3]                    | passed  | 0.00111 seconds |
+./spec/matchers/output_stout_sterr_spec.rb[1:1:1]                | passed  | 0.00007 seconds |
+./spec/matchers/output_stout_sterr_spec.rb[1:1:2]                | passed  | 0.00006 seconds |
+./spec/matchers/output_stout_sterr_spec.rb[1:2:1]                | passed  | 0.00063 seconds |
+./spec/matchers/output_stout_sterr_spec.rb[1:2:2]                | passed  | 0.00008 seconds |
+./spec/matchers/predicate_spec.rb[1:1:1]                         | passed  | 0.00012 seconds |
+./spec/matchers/predicate_spec.rb[1:1:2]                         | passed  | 0.00009 seconds |
+./spec/matchers/predicate_spec.rb[1:2:1]                         | passed  | 0.00155 seconds |
+./spec/matchers/predicate_spec.rb[1:2:2]                         | passed  | 0.00012 seconds |
+./spec/matchers/predicate_spec.rb[1:3:1]                         | passed  | 0.00019 seconds |
+./spec/matchers/predicate_spec.rb[1:3:2]                         | passed  | 0.00026 seconds |
+./spec/matchers/ranges_spec.rb[1:1:1]                            | passed  | 0.00039 seconds |
+./spec/matchers/ranges_spec.rb[1:1:2]                            | passed  | 0.01229 seconds |
+./spec/matchers/ranges_spec.rb[1:2:1]                            | passed  | 0.00043 seconds |
+./spec/matchers/ranges_spec.rb[1:2:2]                            | passed  | 0.00076 seconds |
+./spec/matchers/regex_spec.rb[1:1]                               | passed  | 0.00082 seconds |
+./spec/matchers/regex_spec.rb[1:2]                               | passed  | 0.00171 seconds |
+./spec/matchers/regex_spec.rb[1:3]                               | passed  | 0.01609 seconds |
+./spec/matchers/satisfy_spec.rb[1:1:1]                           | passed  | 0.00011 seconds |
+./spec/matchers/satisfy_spec.rb[1:1:2]                           | passed  | 0.00011 seconds |
+./spec/matchers/satisfy_spec.rb[1:1:3]                           | passed  | 0.00008 seconds |
+./spec/matchers/satisfy_spec.rb[1:1:4]                           | passed  | 0.00009 seconds |
+./spec/matchers/satisfy_spec.rb[1:2:1]                           | passed  | 0.00044 seconds |
+./spec/matchers/satisfy_spec.rb[1:2:2]                           | passed  | 0.01816 seconds |
+./spec/matchers/shared_examples_spec.rb[1:1:1]                   | passed  | 0.00027 seconds |
+./spec/matchers/shared_examples_spec.rb[1:1:2]                   | passed  | 0.00008 seconds |
+./spec/matchers/shared_examples_spec.rb[1:2:1:1]                 | passed  | 0.00063 seconds |
+./spec/matchers/shared_examples_spec.rb[1:2:2:1]                 | passed  | 0.00058 seconds |
+./spec/matchers/shared_examples_spec.rb[1:3:1:1]                 | passed  | 0.00011 seconds |
+./spec/matchers/shared_examples_spec.rb[1:3:2:1]                 | passed  | 0.00006 seconds |
+./spec/matchers/start_end_with_spec.rb[1:1]                      | passed  | 0.00004 seconds |
+./spec/matchers/start_end_with_spec.rb[1:2]                      | passed  | 0.00005 seconds |
+./spec/matchers/start_end_with_spec.rb[1:3]                      | passed  | 0.00091 seconds |
+./spec/matchers/start_end_with_spec.rb[1:4]                      | passed  | 0.00006 seconds |
+./spec/matchers/stub/dynamic_arguments_any_instance_spec.rb[1:1] | passed  | 0.00028 seconds |
+./spec/matchers/stub/dynamic_arguments_any_instance_spec.rb[1:2] | passed  | 0.00074 seconds |
+./spec/matchers/stub/dynamic_arguments_any_instance_spec.rb[1:3] | passed  | 0.00076 seconds |
+./spec/matchers/stub/dynamic_arguments_any_instance_spec.rb[1:4] | passed  | 0.0052 seconds  |
+./spec/matchers/stub/payment_gateway_spec.rb[1:1]                | passed  | 0.00665 seconds |
+./spec/matchers/stub/student_course_stub_spec.rb[1:1]            | passed  | 0.00436 seconds |
+./spec/matchers/tag_filtes_spec.rb[1:1]                          | passed  | 0.00038 seconds |
+./spec/matchers/tag_filtes_spec.rb[1:2]                          | passed  | 0.00035 seconds |
+./spec/matchers/tag_filtes_spec.rb[1:3]                          | unknown |                 |
+./spec/matchers/tag_filtes_spec.rb[1:4]                          | unknown |                 |
+./spec/matchers/truthiness_spec.rb[1:1]                          | unknown |                 |
+./spec/matchers/truthiness_spec.rb[1:2]                          | unknown |                 |
+./spec/matchers/truthiness_spec.rb[1:3]                          | unknown |                 |
+./spec/matchers/truthiness_spec.rb[1:4]                          | unknown |                 |
