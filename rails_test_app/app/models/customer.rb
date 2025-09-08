@@ -1,4 +1,6 @@
 class Customer < ApplicationRecord
+  has_many :orders, dependent: :destroy
+
   # Virtual attribute for testing / easy transient use
   attr_accessor :credit_card_number
   validates :name, presence: true
