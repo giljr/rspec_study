@@ -9,6 +9,7 @@ FactoryBot.define do
     vip   { false }
     days_to_pay { 15 }
     gender { "male" }
+    address { Faker::Address.street_address }
 
     transient do
       credit_card_number { Faker::Finance.credit_card(:visa) }

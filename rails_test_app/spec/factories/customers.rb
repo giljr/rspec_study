@@ -4,6 +4,8 @@ FactoryBot.define do
     email { Faker::Internet.email }
     vip { false }
     days_to_pay { 15 }
+    address { Faker::Address.street_address }
+    gender { [ 'male', 'female', 'non-binary' ].sample }
 
     factory :vip_customer do
       vip { true }

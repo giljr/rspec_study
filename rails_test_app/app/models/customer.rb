@@ -7,6 +7,7 @@ class Customer < ApplicationRecord
   validates :email, presence: true, uniqueness: true
   validates :days_to_pay, numericality: { only_integer: true, greater_than: 0 }
   validates :vip, inclusion: { in: [true, false] }
+  validates :address, presence: true
 
   def full_name
       "Mr./Ms. #{name}"

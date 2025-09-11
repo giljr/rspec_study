@@ -33,7 +33,7 @@ RSpec.describe CustomersController, type: :controller do
   let(:random_str) { SecureRandom.hex(4) }
 
   let!(:valid_attributes) do
-    { name: "John_#{random_str}", email: "john_#{random_str}@example.com", vip: false, days_to_pay: 15 }
+    { name: "John_#{random_str}", email: "john_#{random_str}@example.com", vip: false, days_to_pay: 15, gender: "male",   address: "123 Main St" }
   end
 
   let(:new_attributes) do
