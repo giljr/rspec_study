@@ -19,11 +19,11 @@ RSpec.describe Customer, type: :model do
     customer.save! #
 
     # Debug prints
-    puts "\n--- Customer Attributes from DB ---"
-    puts customer.attributes
+    # puts "\n--- Customer Attributes from DB ---"
+    # puts customer.attributes
 
-    puts "\n--- Transient credit card number ---"
-    puts customer.credit_card_number  # transient attribute, exists in memory
+    # puts "\n--- Transient credit card number ---"
+    # puts customer.credit_card_number  # transient attribute, exists in memory
 
     # Expectations
     expect(customer.credit_card_number).to be_a(String)

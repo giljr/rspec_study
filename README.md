@@ -85,6 +85,73 @@ Author
 Gilberto Jr (J3) – Full Stack Developer & RSpec Enthusiast
 Medium Webpage
 
+# Project Links Reference
+
+This document groups all discovered links by category.
+
+---
+
+## 📚 Documentation
+
+- [RSpec Configuration Docs](https://rubydoc.info/gems/rspec-core/RSpec/Core/Configuration)
+- [RSpec Zero Monkey Patching Mode](https://rspec.info/features/3-12/rspec-core/configuration/zero-monkey-patching-mode/)
+- [RSpec Rails Features](https://rspec.info/features/8-0/rspec-rails)
+- [Rails Guide – Content Security Policy](https://guides.rubyonrails.org/security.html#content-security-policy-header)
+- [Rails I18n Guide](https://guides.rubyonrails.org/i18n.html)
+- [Rails Routing Guide](https://guides.rubyonrails.org/routing.html)
+- [Rails Guide – ActiveModel Secure Password](https://guides.rubyonrails.org/active_model_basics.html#securepassword)
+- [Rails Guide – Active Storage Variants](https://guides.rubyonrails.org/active_storage_overview.html#transforming-images)
+- [Rails Guide – Debugging with the debug gem](https://guides.rubyonrails.org/debugging_rails_applications.html#debugging-with-the-debug-gem)
+- [Rails DevContainer Guide](https://guides.rubyonrails.org/getting_started_with_devcontainer.html)
+- [Robots.txt Documentation](https://www.robotstxt.org/robotstxt.html)
+- [Docker Docs – .dockerignore](https://docs.docker.com/engine/reference/builder/#dockerignore-file)
+- [Git Attributes Documentation](https://git-scm.com/docs/gitattributes)
+- [GitHub Help – Ignoring Files](https://help.github.com/articles/ignoring-files)
+
+---
+
+## 💎 Gems and Libraries
+
+- [RubyGems Source](https://rubygems.org)
+- [Propshaft (Asset Pipeline)](https://github.com/rails/propshaft)
+- [Puma Web Server](https://github.com/puma/puma)
+- [Rails Importmap](https://github.com/rails/importmap-rails)
+- [Hotwire Turbo](https://turbo.hotwired.dev)
+- [Hotwire Stimulus](https://stimulus.hotwired.dev)
+- [Jbuilder](https://github.com/rails/jbuilder)
+- [Kamal Deploy](https://kamal-deploy.org)
+- [Thruster (Basecamp)](https://github.com/basecamp/thruster/)
+- [Brakeman Scanner](https://brakemanscanner.org/)
+- [Rubocop Rails Omakase](https://github.com/rails/rubocop-rails-omakase/)
+- [RSpec Rails](https://github.com/rspec/rspec-rails)
+- [Rails Web Console](https://github.com/rails/web-console)
+- [FactoryBot GitHub](https://github.com/thoughtbot/factory_bot/)
+- [WebMock GitHub](https://github.com/bblimke/webmock)
+- [VCR – Filter Sensitive Data Docs](https://benoittgt.github.io/vcr/#/configuration/filter_sensitive_data)
+- [FactoryBot Videos – Thoughtbot Upcase](https://thoughtbot.com/upcase/videos/factory-bot)
+
+---
+
+## 🌐 APIs
+
+- [JSONPlaceholder API – Post 1](https://jsonplaceholder.typicode.com/posts/1)
+- [Heroku NEL Reports](https://nel.heroku.com/reports)
+
+---
+
+## 🐙 GitHub
+
+- [GitHub](https://github.com/)
+
+---
+
+## 📖 Learning Resources
+
+- [Udemy: TDD com Ruby on Rails, RSpec e Capybara (Jackson Pires)](https://www.udemy.com/course/rails-tdd/)
+- [Udemy: Testing Ruby with RSpec: The Complete Guide (Boris Paskhaver)](https://www.udemy.com/course/testing-ruby-with-rspec/)
+- [Medium – Jungletronics](https://medium.com/jungletronics)
+
+
 ## Acknowledgements
 
  - [TDD com Ruby on Rails, RSpec e Capybara](https://www.udemy.com/course/rails-tdd/)  - Desenvolva aplicações guiada a testes com Ruby on Rails by Jackson Pires
