@@ -90,7 +90,20 @@ Medium Webpage
 This document groups all discovered links by category.
 
 ---
+## 📚 Capybara
+- [Capybara HomePage](https://github.com/teamcapybara/capybara)
+- [Capybara Git](http://teamcapybara.github.io/capybara/)
+- [Factory Bot - Pure ruby](https://github.com/thoughtbot/factory_bot)
+- [Factory Bot - Rails](https://github.com/thoughtbot/factory_bot_rails)
+- [Devise Plus Capybara Guide](https://github.com/heartcombo/devise/wiki/How-To:-Test-with-Capybara)
 
+---
+## 📚 RSpec
+- [Request Spec](https://rspec.info/features/6-0/rspec-rails/request-specs/request-spec/)
+- [Feature Spec](https://rspec.info/features/6-0/rspec-rails/feature-specs/feature-spec/)
+- [RSpec- Expectations](https://github.com/waterlink/rspec-json_expectations)
+
+---
 ## 📚 Documentation
 
 - [RSpec Configuration Docs](https://rubydoc.info/gems/rspec-core/RSpec/Core/Configuration)
